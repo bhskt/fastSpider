@@ -1,0 +1,11 @@
+{
+  "name": "fastSpider",
+  "version": "1.0.0",
+  "description": "PHP & NodeJS based Site Specific Spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaskar Tiwari",
+  "license": "BSD-2-Clause"
+}
